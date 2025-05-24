@@ -1,2 +1,1 @@
-# us_president_height_project
-📊 A simple data analysis project exploring the heights of U.S. Presidents using Python and Jupyter Notebook.
+📊 A Python-based data analysis and visualization project in Jupyter Notebook exploring the heights of U.S. Presidents using Pandas, Matplotlib, and Seaborn, with insights on trends, comparisons, and historical patterns, based on publicly available datasets.
